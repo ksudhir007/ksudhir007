@@ -1,7 +1,7 @@
-<a href="https://feisky.xyz/about">
+<a href="https://github.com/ksudhir007">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ksudhir007&show_icons=true" />
 </a>
-<a href="https://feisky.xyz/about">
+<a href="https://github.com/ksudhir007">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksudhir007&hide=html,ruby" />
 </a>
 
